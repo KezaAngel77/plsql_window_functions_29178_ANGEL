@@ -94,3 +94,5 @@ The business should prioritize high-performing products, re-engage inactive cust
 
 ## REFERENCES
 Official SQL documentation and reputable database learning resources were consulted for this project.
+
+All sources were properly cited. The implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.
